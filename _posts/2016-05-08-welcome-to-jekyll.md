@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
+title: "FOSS4ALL"
 date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Put your description here.'
-main-class: 'jekyll'
+main-class: 'Workshop'
 color: '#B31917'
 tags:
-- jekyll
+- 'workshop'
+- 'Open source Software'
 categories:
 twitter_text: 'Put your twitter description here.'
-introduction: 'Put your description here.'
+introduction: 'Workshop go brrrr.'
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
