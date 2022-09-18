@@ -3,3 +3,4 @@ _site
 node_modules
 _drafts
 .jekyll_cache
+_posts/.jekyll_cache
